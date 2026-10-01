@@ -1,0 +1,575 @@
+{
+  "experiment": "L12",
+  "wall_seconds": 0.98,
+  "eps_eff_used": 0.0438,
+  "sizes": [
+    4,
+    9,
+    16
+  ],
+  "depths": [
+    2,
+    4,
+    6
+  ],
+  "n_seeds": 3,
+  "records": [
+    {
+      "n": 4,
+      "depth_layers": 2,
+      "seed": 0,
+      "n2q_original": 8,
+      "depth_original": 10,
+      "heavy_hex_chain": {
+        "n2q": 23,
+        "depth": 31,
+        "blowup": 2.875,
+        "fidelity_cost": 0.356961
+      },
+      "square_lattice": {
+        "n2q": 18,
+        "depth": 35,
+        "blowup": 2.25,
+        "fidelity_cost": 0.446557
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 2,
+      "seed": 1,
+      "n2q_original": 8,
+      "depth_original": 10,
+      "heavy_hex_chain": {
+        "n2q": 21,
+        "depth": 37,
+        "blowup": 2.625,
+        "fidelity_cost": 0.390412
+      },
+      "square_lattice": {
+        "n2q": 17,
+        "depth": 31,
+        "blowup": 2.125,
+        "fidelity_cost": 0.467013
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 2,
+      "seed": 2,
+      "n2q_original": 8,
+      "depth_original": 8,
+      "heavy_hex_chain": {
+        "n2q": 21,
+        "depth": 29,
+        "blowup": 2.625,
+        "fidelity_cost": 0.390412
+      },
+      "square_lattice": {
+        "n2q": 17,
+        "depth": 25,
+        "blowup": 2.125,
+        "fidelity_cost": 0.467013
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 4,
+      "seed": 0,
+      "n2q_original": 16,
+      "depth_original": 19,
+      "heavy_hex_chain": {
+        "n2q": 45,
+        "depth": 72,
+        "blowup": 2.812,
+        "fidelity_cost": 0.133258
+      },
+      "square_lattice": {
+        "n2q": 43,
+        "depth": 52,
+        "blowup": 2.688,
+        "fidelity_cost": 0.145746
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 4,
+      "seed": 1,
+      "n2q_original": 16,
+      "depth_original": 18,
+      "heavy_hex_chain": {
+        "n2q": 39,
+        "depth": 63,
+        "blowup": 2.438,
+        "fidelity_cost": 0.174342
+      },
+      "square_lattice": {
+        "n2q": 43,
+        "depth": 57,
+        "blowup": 2.688,
+        "fidelity_cost": 0.145746
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 4,
+      "seed": 2,
+      "n2q_original": 16,
+      "depth_original": 20,
+      "heavy_hex_chain": {
+        "n2q": 48,
+        "depth": 76,
+        "blowup": 3.0,
+        "fidelity_cost": 0.116504
+      },
+      "square_lattice": {
+        "n2q": 36,
+        "depth": 60,
+        "blowup": 2.25,
+        "fidelity_cost": 0.199414
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 6,
+      "seed": 0,
+      "n2q_original": 24,
+      "depth_original": 28,
+      "heavy_hex_chain": {
+        "n2q": 63,
+        "depth": 108,
+        "blowup": 2.625,
+        "fidelity_cost": 0.059507
+      },
+      "square_lattice": {
+        "n2q": 62,
+        "depth": 84,
+        "blowup": 2.583,
+        "fidelity_cost": 0.062233
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 6,
+      "seed": 1,
+      "n2q_original": 24,
+      "depth_original": 26,
+      "heavy_hex_chain": {
+        "n2q": 72,
+        "depth": 104,
+        "blowup": 3.0,
+        "fidelity_cost": 0.039766
+      },
+      "square_lattice": {
+        "n2q": 64,
+        "depth": 82,
+        "blowup": 2.667,
+        "fidelity_cost": 0.056901
+      }
+    },
+    {
+      "n": 4,
+      "depth_layers": 6,
+      "seed": 2,
+      "n2q_original": 24,
+      "depth_original": 28,
+      "heavy_hex_chain": {
+        "n2q": 69,
+        "depth": 115,
+        "blowup": 2.875,
+        "fidelity_cost": 0.045484
+      },
+      "square_lattice": {
+        "n2q": 64,
+        "depth": 83,
+        "blowup": 2.667,
+        "fidelity_cost": 0.056901
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 2,
+      "seed": 0,
+      "n2q_original": 18,
+      "depth_original": 14,
+      "heavy_hex_chain": {
+        "n2q": 89,
+        "depth": 79,
+        "blowup": 4.944,
+        "fidelity_cost": 0.018571
+      },
+      "square_lattice": {
+        "n2q": 54,
+        "depth": 54,
+        "blowup": 3.0,
+        "fidelity_cost": 0.08905
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 2,
+      "seed": 1,
+      "n2q_original": 18,
+      "depth_original": 12,
+      "heavy_hex_chain": {
+        "n2q": 75,
+        "depth": 66,
+        "blowup": 4.167,
+        "fidelity_cost": 0.034766
+      },
+      "square_lattice": {
+        "n2q": 48,
+        "depth": 51,
+        "blowup": 2.667,
+        "fidelity_cost": 0.116504
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 2,
+      "seed": 2,
+      "n2q_original": 18,
+      "depth_original": 14,
+      "heavy_hex_chain": {
+        "n2q": 70,
+        "depth": 56,
+        "blowup": 3.889,
+        "fidelity_cost": 0.043492
+      },
+      "square_lattice": {
+        "n2q": 49,
+        "depth": 55,
+        "blowup": 2.722,
+        "fidelity_cost": 0.111401
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 4,
+      "seed": 0,
+      "n2q_original": 36,
+      "depth_original": 21,
+      "heavy_hex_chain": {
+        "n2q": 178,
+        "depth": 120,
+        "blowup": 4.944,
+        "fidelity_cost": 0.000345
+      },
+      "square_lattice": {
+        "n2q": 110,
+        "depth": 89,
+        "blowup": 3.056,
+        "fidelity_cost": 0.00725
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 4,
+      "seed": 1,
+      "n2q_original": 36,
+      "depth_original": 24,
+      "heavy_hex_chain": {
+        "n2q": 190,
+        "depth": 133,
+        "blowup": 5.278,
+        "fidelity_cost": 0.000201
+      },
+      "square_lattice": {
+        "n2q": 108,
+        "depth": 100,
+        "blowup": 3.0,
+        "fidelity_cost": 0.00793
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 4,
+      "seed": 2,
+      "n2q_original": 36,
+      "depth_original": 25,
+      "heavy_hex_chain": {
+        "n2q": 161,
+        "depth": 122,
+        "blowup": 4.472,
+        "fidelity_cost": 0.000738
+      },
+      "square_lattice": {
+        "n2q": 108,
+        "depth": 97,
+        "blowup": 3.0,
+        "fidelity_cost": 0.00793
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 6,
+      "seed": 0,
+      "n2q_original": 54,
+      "depth_original": 35,
+      "heavy_hex_chain": {
+        "n2q": 274,
+        "depth": 212,
+        "blowup": 5.074,
+        "fidelity_cost": 5e-06
+      },
+      "square_lattice": {
+        "n2q": 172,
+        "depth": 187,
+        "blowup": 3.185,
+        "fidelity_cost": 0.000451
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 6,
+      "seed": 1,
+      "n2q_original": 54,
+      "depth_original": 36,
+      "heavy_hex_chain": {
+        "n2q": 282,
+        "depth": 216,
+        "blowup": 5.222,
+        "fidelity_cost": 3e-06
+      },
+      "square_lattice": {
+        "n2q": 160,
+        "depth": 155,
+        "blowup": 2.963,
+        "fidelity_cost": 0.000772
+      }
+    },
+    {
+      "n": 9,
+      "depth_layers": 6,
+      "seed": 2,
+      "n2q_original": 54,
+      "depth_original": 30,
+      "heavy_hex_chain": {
+        "n2q": 250,
+        "depth": 169,
+        "blowup": 4.63,
+        "fidelity_cost": 1.4e-05
+      },
+      "square_lattice": {
+        "n2q": 152,
+        "depth": 145,
+        "blowup": 2.815,
+        "fidelity_cost": 0.001105
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 2,
+      "seed": 0,
+      "n2q_original": 32,
+      "depth_original": 13,
+      "heavy_hex_chain": {
+        "n2q": 167,
+        "depth": 83,
+        "blowup": 5.219,
+        "fidelity_cost": 0.000564
+      },
+      "square_lattice": {
+        "n2q": 92,
+        "depth": 61,
+        "blowup": 2.875,
+        "fidelity_cost": 0.016236
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 2,
+      "seed": 1,
+      "n2q_original": 32,
+      "depth_original": 15,
+      "heavy_hex_chain": {
+        "n2q": 203,
+        "depth": 102,
+        "blowup": 6.344,
+        "fidelity_cost": 0.000113
+      },
+      "square_lattice": {
+        "n2q": 111,
+        "depth": 80,
+        "blowup": 3.469,
+        "fidelity_cost": 0.006933
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 2,
+      "seed": 2,
+      "n2q_original": 32,
+      "depth_original": 13,
+      "heavy_hex_chain": {
+        "n2q": 216,
+        "depth": 99,
+        "blowup": 6.75,
+        "fidelity_cost": 6.3e-05
+      },
+      "square_lattice": {
+        "n2q": 104,
+        "depth": 64,
+        "blowup": 3.25,
+        "fidelity_cost": 0.009486
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 4,
+      "seed": 0,
+      "n2q_original": 64,
+      "depth_original": 27,
+      "heavy_hex_chain": {
+        "n2q": 497,
+        "depth": 235,
+        "blowup": 7.766,
+        "fidelity_cost": 0.0
+      },
+      "square_lattice": {
+        "n2q": 248,
+        "depth": 197,
+        "blowup": 3.875,
+        "fidelity_cost": 1.5e-05
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 4,
+      "seed": 1,
+      "n2q_original": 64,
+      "depth_original": 26,
+      "heavy_hex_chain": {
+        "n2q": 469,
+        "depth": 244,
+        "blowup": 7.328,
+        "fidelity_cost": 0.0
+      },
+      "square_lattice": {
+        "n2q": 252,
+        "depth": 162,
+        "blowup": 3.938,
+        "fidelity_cost": 1.3e-05
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 4,
+      "seed": 2,
+      "n2q_original": 64,
+      "depth_original": 26,
+      "heavy_hex_chain": {
+        "n2q": 456,
+        "depth": 279,
+        "blowup": 7.125,
+        "fidelity_cost": 0.0
+      },
+      "square_lattice": {
+        "n2q": 254,
+        "depth": 157,
+        "blowup": 3.969,
+        "fidelity_cost": 1.1e-05
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 6,
+      "seed": 0,
+      "n2q_original": 96,
+      "depth_original": 35,
+      "heavy_hex_chain": {
+        "n2q": 784,
+        "depth": 340,
+        "blowup": 8.167,
+        "fidelity_cost": 0.0
+      },
+      "square_lattice": {
+        "n2q": 371,
+        "depth": 242,
+        "blowup": 3.865,
+        "fidelity_cost": 0.0
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 6,
+      "seed": 1,
+      "n2q_original": 96,
+      "depth_original": 37,
+      "heavy_hex_chain": {
+        "n2q": 851,
+        "depth": 390,
+        "blowup": 8.865,
+        "fidelity_cost": 0.0
+      },
+      "square_lattice": {
+        "n2q": 386,
+        "depth": 240,
+        "blowup": 4.021,
+        "fidelity_cost": 0.0
+      }
+    },
+    {
+      "n": 16,
+      "depth_layers": 6,
+      "seed": 2,
+      "n2q_original": 96,
+      "depth_original": 37,
+      "heavy_hex_chain": {
+        "n2q": 835,
+        "depth": 397,
+        "blowup": 8.698,
+        "fidelity_cost": 0.0
+      },
+      "square_lattice": {
+        "n2q": 379,
+        "depth": 265,
+        "blowup": 3.948,
+        "fidelity_cost": 0.0
+      }
+    }
+  ],
+  "summary": [
+    {
+      "n": 4,
+      "geometry": "heavy_hex_chain",
+      "mean_blowup": 2.764,
+      "max_blowup": 3.0,
+      "min_blowup": 2.438
+    },
+    {
+      "n": 4,
+      "geometry": "square_lattice",
+      "mean_blowup": 2.449,
+      "max_blowup": 2.688,
+      "min_blowup": 2.125
+    },
+    {
+      "n": 9,
+      "geometry": "heavy_hex_chain",
+      "mean_blowup": 4.736,
+      "max_blowup": 5.278,
+      "min_blowup": 3.889
+    },
+    {
+      "n": 9,
+      "geometry": "square_lattice",
+      "mean_blowup": 2.934,
+      "max_blowup": 3.185,
+      "min_blowup": 2.667
+    },
+    {
+      "n": 16,
+      "geometry": "heavy_hex_chain",
+      "mean_blowup": 7.362,
+      "max_blowup": 8.865,
+      "min_blowup": 5.219
+    },
+    {
+      "n": 16,
+      "geometry": "square_lattice",
+      "mean_blowup": 3.69,
+      "max_blowup": 4.021,
+      "min_blowup": 2.875
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "experiment": "L03",
+  "wall_seconds": 0.02,
+  "has_cotengra": false,
+  "n_square": [
+    9,
+    16,
+    25
+  ],
+  "depth_range": [
+    2,
+    4,
+    6,
+    8,
+    10
+  ],
+  "budget_s_per_circuit": 30,
+  "records": [
+    {
+      "n": 9,
+      "depth": 2,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 8,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 2,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 8,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 4,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 12,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 4,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 12,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 6,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 20,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 6,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 20,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 8,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 24,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 8,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 24,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 10,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 32,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 9,
+      "depth": 10,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 32,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 12,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 12,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 24,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 24,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 36,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 36,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 48,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 48,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 60,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 60,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 2,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 23,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 2,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 23,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 4,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 40,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 4,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 40,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 6,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 63,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 6,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 63,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 8,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 80,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 8,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 80,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 10,
+      "seed": 0,
+      "geometry": "square",
+      "n_cz": 103,
+      "log10_cost": null,
+      "log2_width": null
+    },
+    {
+      "n": 25,
+      "depth": 10,
+      "seed": 1,
+      "geometry": "square",
+      "n_cz": 103,
+      "log10_cost": null,
+      "log2_width": null
+    }
+  ],
+  "m12_fit": null
+}

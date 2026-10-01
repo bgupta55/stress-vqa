@@ -1,0 +1,67 @@
+{
+  "experiment": "L02",
+  "wall_seconds": 0.47,
+  "N_for_sigma": [
+    {
+      "type": "N_for_sigma",
+      "F": 0.001,
+      "z": 5,
+      "N_needed": 25049975.000000004
+    },
+    {
+      "type": "N_for_sigma",
+      "F": 0.0023,
+      "z": 5,
+      "N_needed": 4747612.051039697
+    },
+    {
+      "type": "N_for_sigma",
+      "F": 0.01,
+      "z": 5,
+      "N_needed": 254975.0
+    }
+  ],
+  "theory_check_T3": {
+    "computed": 4747612.051039697,
+    "expected": 4700000.0,
+    "pass": true
+  },
+  "monte_carlo": [
+    {
+      "F": 0.01,
+      "N": 1000,
+      "mean_xeb": 0.010062161465603086,
+      "var_xeb": 0.0009143578082357647,
+      "theory_var": 0.0010199,
+      "var_match_ok": true,
+      "sigma_ratio": 0.315073941698846
+    },
+    {
+      "F": 0.01,
+      "N": 10000,
+      "mean_xeb": 0.011010610051092893,
+      "var_xeb": 0.00010033777571954806,
+      "theory_var": 0.00010199,
+      "var_match_ok": true,
+      "sigma_ratio": 1.0902662945046155
+    },
+    {
+      "F": 0.0023,
+      "N": 1000,
+      "mean_xeb": 0.0018763976693725345,
+      "var_xeb": 0.0008856176864821171,
+      "theory_var": 0.00100459471,
+      "var_match_ok": true,
+      "sigma_ratio": 0.059201054343379717
+    },
+    {
+      "F": 0.0023,
+      "N": 10000,
+      "mean_xeb": 0.0034552747729305246,
+      "var_xeb": 9.676905787857443e-05,
+      "theory_var": 0.00010045947099999998,
+      "var_match_ok": true,
+      "sigma_ratio": 0.34473640300724173
+    }
+  ]
+}

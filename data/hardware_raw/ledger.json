@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "tag": "Q0",
+      "job_id": "dauti4lvr3kc73enktpg",
+      "billed_seconds": 0.0,
+      "timestamp": "2026-10-01T09:23:01Z"
+    },
+    {
+      "tag": "Q1_mirror_baseline",
+      "job_id": "dautjnahcrkc73e0afb0",
+      "billed_seconds": 13.0,
+      "timestamp": "2026-10-01T09:26:35Z"
+    },
+    {
+      "tag": "Q2_peak_vs_G",
+      "job_id": "dautjtihcrkc73e0afhg",
+      "billed_seconds": 29.0,
+      "timestamp": "2026-10-01T09:27:18Z"
+    },
+    {
+      "tag": "Q3_delta_sweep",
+      "job_id": "dautk82hcrkc73e0aft0",
+      "billed_seconds": 22.0,
+      "timestamp": "2026-10-01T09:27:52Z"
+    },
+    {
+      "tag": "Q4_n12",
+      "job_id": "dautl2lvr3kc73enl15g",
+      "billed_seconds": 9.0,
+      "timestamp": "2026-10-01T09:29:22Z"
+    },
+    {
+      "tag": "Q4_n20",
+      "job_id": "dautl75vr3kc73enl1bg",
+      "billed_seconds": 9.0,
+      "timestamp": "2026-10-01T09:29:38Z"
+    },
+    {
+      "tag": "Q4_n28",
+      "job_id": "dautlb3g95ks73ej2ft0",
+      "billed_seconds": 6.0,
+      "timestamp": "2026-10-01T09:30:23Z"
+    },
+    {
+      "tag": "Q5_n40",
+      "job_id": "dautlmbg95ks73ej2ga0",
+      "billed_seconds": 7.0,
+      "timestamp": "2026-10-01T09:30:41Z"
+    }
+  ],
+  "billed_total": 95.0
+}

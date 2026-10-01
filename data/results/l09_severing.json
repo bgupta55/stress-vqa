@@ -1,0 +1,858 @@
+{
+  "experiment": "L09",
+  "wall_seconds": 6.82,
+  "n_list": [
+    12,
+    16
+  ],
+  "depth_list": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12
+  ],
+  "records": [
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 0,
+      "cut_size": 6,
+      "spoofing_score": 0.015624940395457051
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 1,
+      "cut_size": 6,
+      "spoofing_score": 0.015625014901171505
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 2,
+      "cut_size": 6,
+      "spoofing_score": 0.01562503725294912
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 3,
+      "cut_size": 6,
+      "spoofing_score": 0.015624972060348219
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 4,
+      "cut_size": 6,
+      "spoofing_score": 0.015625007450576864
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 5,
+      "cut_size": 6,
+      "spoofing_score": 0.01562499441206585
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 6,
+      "cut_size": 6,
+      "spoofing_score": 0.01562500000000402
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 7,
+      "cut_size": 6,
+      "spoofing_score": 0.015625003725286465
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 8,
+      "cut_size": 6,
+      "spoofing_score": 0.015624990686781628
+    },
+    {
+      "n": 12,
+      "depth": 2,
+      "seed": 9,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000003386
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 0,
+      "cut_size": 6,
+      "spoofing_score": 0.015624977648276502
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 1,
+      "cut_size": 6,
+      "spoofing_score": 0.01562500000000405
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 2,
+      "cut_size": 6,
+      "spoofing_score": 0.015624962747148035
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 3,
+      "cut_size": 6,
+      "spoofing_score": 0.015625018626467205
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 4,
+      "cut_size": 6,
+      "spoofing_score": 0.015624988824118424
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 5,
+      "cut_size": 6,
+      "spoofing_score": 0.015624949708648713
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 6,
+      "cut_size": 6,
+      "spoofing_score": 0.015625029802352745
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 7,
+      "cut_size": 6,
+      "spoofing_score": 0.015624981373542282
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 8,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000009003
+    },
+    {
+      "n": 12,
+      "depth": 4,
+      "seed": 9,
+      "cut_size": 6,
+      "spoofing_score": 0.015625074505965286
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 0,
+      "cut_size": 6,
+      "spoofing_score": 0.015624977648277447
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 1,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000006547
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 2,
+      "cut_size": 6,
+      "spoofing_score": 0.01562500000001439
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 3,
+      "cut_size": 6,
+      "spoofing_score": 0.01562500000000807
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 4,
+      "cut_size": 6,
+      "spoofing_score": 0.015624988824110323
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 5,
+      "cut_size": 6,
+      "spoofing_score": 0.015624938532809345
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 6,
+      "cut_size": 6,
+      "spoofing_score": 0.015624985098851652
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 7,
+      "cut_size": 6,
+      "spoofing_score": 0.015624990686756575
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 8,
+      "cut_size": 6,
+      "spoofing_score": 0.015625018626472843
+    },
+    {
+      "n": 12,
+      "depth": 6,
+      "seed": 9,
+      "cut_size": 6,
+      "spoofing_score": 0.015625134110959397
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 0,
+      "cut_size": 6,
+      "spoofing_score": 0.015624955296578421
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 1,
+      "cut_size": 6,
+      "spoofing_score": 0.015625029802352287
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 2,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000021535
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 3,
+      "cut_size": 6,
+      "spoofing_score": 0.015624953433946872
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 4,
+      "cut_size": 6,
+      "spoofing_score": 0.015624994412036266
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 5,
+      "cut_size": 6,
+      "spoofing_score": 0.015624966472413963
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 6,
+      "cut_size": 6,
+      "spoofing_score": 0.015624962747142715
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 7,
+      "cut_size": 6,
+      "spoofing_score": 0.015624996274681975
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 8,
+      "cut_size": 6,
+      "spoofing_score": 0.01562498137357818
+    },
+    {
+      "n": 12,
+      "depth": 8,
+      "seed": 9,
+      "cut_size": 6,
+      "spoofing_score": 0.015625134110959907
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 0,
+      "cut_size": 6,
+      "spoofing_score": 0.015624955296577774
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 1,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000005034
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 2,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000022055
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 3,
+      "cut_size": 6,
+      "spoofing_score": 0.015624981373575843
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 4,
+      "cut_size": 6,
+      "spoofing_score": 0.015624996274671153
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 5,
+      "cut_size": 6,
+      "spoofing_score": 0.015624927356973859
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 6,
+      "cut_size": 6,
+      "spoofing_score": 0.015624985098852814
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 7,
+      "cut_size": 6,
+      "spoofing_score": 0.0156249962746739
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 8,
+      "cut_size": 6,
+      "spoofing_score": 0.015625055879466186
+    },
+    {
+      "n": 12,
+      "depth": 10,
+      "seed": 9,
+      "cut_size": 6,
+      "spoofing_score": 0.015625074505966455
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 0,
+      "cut_size": 6,
+      "spoofing_score": 0.01562495529657787
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 1,
+      "cut_size": 6,
+      "spoofing_score": 0.015625104308440604
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 2,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000025487
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 3,
+      "cut_size": 6,
+      "spoofing_score": 0.015625074505985874
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 4,
+      "cut_size": 6,
+      "spoofing_score": 0.015624999999951573
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 5,
+      "cut_size": 6,
+      "spoofing_score": 0.015624910593237796
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 6,
+      "cut_size": 6,
+      "spoofing_score": 0.015625000000006987
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 7,
+      "cut_size": 6,
+      "spoofing_score": 0.015624988824085972
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 8,
+      "cut_size": 6,
+      "spoofing_score": 0.015625018626482728
+    },
+    {
+      "n": 12,
+      "depth": 12,
+      "seed": 9,
+      "cut_size": 6,
+      "spoofing_score": 0.01562508940719645
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 0,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000696
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 1,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000049
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 2,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062500000006835
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 3,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000226
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 4,
+      "cut_size": 8,
+      "spoofing_score": 0.003906251862645373
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 5,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000216
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 6,
+      "cut_size": 8,
+      "spoofing_score": 0.003906254656615772
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 7,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999999859
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 8,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000255
+    },
+    {
+      "n": 16,
+      "depth": 2,
+      "seed": 9,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062481373554952
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 0,
+      "cut_size": 8,
+      "spoofing_score": 0.003906255587940065
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 1,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062499999998196
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 2,
+      "cut_size": 8,
+      "spoofing_score": 0.003906240221125418
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 3,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062500000003235
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 4,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062490686769973
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 5,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000008
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 6,
+      "cut_size": 8,
+      "spoofing_score": 0.003906254656615865
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 7,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999999487
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 8,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000115
+    },
+    {
+      "n": 16,
+      "depth": 4,
+      "seed": 9,
+      "cut_size": 8,
+      "spoofing_score": 0.003906250000000373
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 0,
+      "cut_size": 8,
+      "spoofing_score": 0.003906255587940594
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 1,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999999526
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 2,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062402211257
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 3,
+      "cut_size": 8,
+      "spoofing_score": 0.003906259313235745
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 4,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062472060319574
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 5,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062462747110195
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 6,
+      "cut_size": 8,
+      "spoofing_score": 0.00390625465661574
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 7,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062499999989774
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 8,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062499999999705
+    },
+    {
+      "n": 16,
+      "depth": 6,
+      "seed": 9,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062481373555004
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 0,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062555879414325
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 1,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062499999990533
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 2,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062467403741703
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 3,
+      "cut_size": 8,
+      "spoofing_score": 0.003906254656615385
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 4,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249068675504
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 5,
+      "cut_size": 8,
+      "spoofing_score": 0.003906253725291036
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 6,
+      "cut_size": 8,
+      "spoofing_score": 0.003906254656615604
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 7,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999998067
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 8,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999999549
+    },
+    {
+      "n": 16,
+      "depth": 8,
+      "seed": 9,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062481373552554
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 0,
+      "cut_size": 8,
+      "spoofing_score": 0.003906261175888018
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 1,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999998715
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 2,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062565192652015
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 3,
+      "cut_size": 8,
+      "spoofing_score": 0.003906259313235129
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 4,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062472060303675
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 5,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999998894
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 6,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062546566155055
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 7,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062499999975176
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 8,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062499999992445
+    },
+    {
+      "n": 16,
+      "depth": 10,
+      "seed": 9,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062481373552047
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 0,
+      "cut_size": 8,
+      "spoofing_score": 0.003906261175888511
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 1,
+      "cut_size": 8,
+      "spoofing_score": 0.003906249999998254
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 2,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062500000023575
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 3,
+      "cut_size": 8,
+      "spoofing_score": 0.003906259313235208
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 4,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062472060298514
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 5,
+      "cut_size": 8,
+      "spoofing_score": 0.003906253725290432
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 6,
+      "cut_size": 8,
+      "spoofing_score": 0.003906254656615433
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 7,
+      "cut_size": 8,
+      "spoofing_score": 0.003906251862642415
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 8,
+      "cut_size": 8,
+      "spoofing_score": 0.0039062499999990108
+    },
+    {
+      "n": 16,
+      "depth": 12,
+      "seed": 9,
+      "cut_size": 8,
+      "spoofing_score": 0.003906246274711123
+    }
+  ]
+}

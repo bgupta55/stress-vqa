@@ -1,0 +1,1095 @@
+{
+  "experiment": "L08",
+  "wall_seconds": 6.14,
+  "n_list": [
+    12,
+    16,
+    20
+  ],
+  "beam_sizes": [
+    8,
+    64
+  ],
+  "records": [
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.95,
+      "delta_pred": 0.05985131665520532,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.8,
+      "delta_pred": 0.13897010265471946,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.6,
+      "delta_pred": 0.3340048576578587,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 12,
+      "theta": 0.4,
+      "delta_pred": 0.6167851374425825,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 12
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.95,
+      "delta_pred": 0.023411627836325367,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.8,
+      "delta_pred": 0.07198276163257988,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.6,
+      "delta_pred": 0.23174144508401515,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 16,
+      "theta": 0.4,
+      "delta_pred": 0.5250232468392254,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 16
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 8,
+      "seed": 1,
+      "success": false,
+      "bits_correct": 19
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 64,
+      "seed": 1,
+      "success": false,
+      "bits_correct": 19
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.95,
+      "delta_pred": 0.00915776541899911,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.8,
+      "delta_pred": 0.037285127327901915,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.6,
+      "delta_pred": 0.16078837219978387,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 8,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 8,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 8,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 8,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 8,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 64,
+      "seed": 0,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 64,
+      "seed": 1,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 64,
+      "seed": 2,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 64,
+      "seed": 3,
+      "success": true,
+      "bits_correct": 20
+    },
+    {
+      "n": 20,
+      "theta": 0.4,
+      "delta_pred": 0.4469131841674166,
+      "beam": 64,
+      "seed": 4,
+      "success": true,
+      "bits_correct": 20
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "experiment": "L00",
+  "wall_seconds": 1.38,
+  "versions": {
+    "python": "3.14.5 (main, May 10 2026, 10:21:34) [Clang 21.0.0 (clang-2100.0.123.102)]",
+    "platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+    "machine": "arm64",
+    "qiskit": "2.5.2",
+    "qiskit_aer": "0.17.2",
+    "qiskit_ibm_runtime": "0.50.0",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "networkx": "3.7",
+    "statsmodels": "0.15.0",
+    "sklearn": "1.9.1",
+    "pyzx": "0.10.6",
+    "stim": "1.16.0",
+    "cotengra": "NOT INSTALLED",
+    "quimb": "NOT INSTALLED"
+  },
+  "memory": {
+    "total_ram_gb": 24.0
+  },
+  "theory_unit_tests": {
+    "T3_xeb_samples": {
+      "computed": 4747612.051039697,
+      "expected": 4700000.0,
+      "pass": true
+    },
+    "T5_chi_min": {
+      "computed": 847434.8713101714,
+      "expected": 850000.0,
+      "pass": true
+    }
+  },
+  "circuit_unit_tests": {
+    "theta_0.00": {
+      "n_cz": 36,
+      "delta_pred": 1.0,
+      "p_peak": 1.0,
+      "argmax_matches_s": true,
+      "delta_within_tol": true
+    },
+    "theta_0.15": {
+      "n_cz": 36,
+      "delta_pred": 0.9453,
+      "p_peak": 0.9578,
+      "argmax_matches_s": true,
+      "delta_within_tol": true
+    },
+    "theta_0.30": {
+      "n_cz": 36,
+      "delta_pred": 0.7978,
+      "p_peak": 0.8111,
+      "argmax_matches_s": true,
+      "delta_within_tol": true
+    },
+    "transpiler_guard": {
+      "expected_cz": 36,
+      "actual_cz_after_transpile_level1": 36,
+      "guard_pass": true
+    }
+  },
+  "all_theory_pass": true
+}
